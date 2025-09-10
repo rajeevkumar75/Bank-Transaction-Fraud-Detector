@@ -51,3 +51,9 @@ Fraud detection using manual processes is:
    - Accuracy  
    - Precision, Recall, F1-Score  
    - ROC-AUC Curve
+## 🚀 Expected Output  
+Example Input:  
+Amount: 24000
+Type: ATM
+Location: Unknown
+Output : Fraud
